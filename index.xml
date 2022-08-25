@@ -1,3 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GuYu's Blog</title><link>https://gaecoli.github.io/</link><description>Recent content on GuYu's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© Copyright notice</copyright><lastBuildDate>Thu, 25 Aug 2022 20:03:25 +0800</lastBuildDate><atom:link href="https://gaecoli.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Post 08 25</title><link>https://gaecoli.github.io/posts/post-08-25/</link><pubDate>Thu, 25 Aug 2022 20:03:25 +0800</pubDate><guid>https://gaecoli.github.io/posts/post-08-25/</guid><description>Hello world!</description></item><item><title>About</title><link>https://gaecoli.github.io/about/</link><pubDate>Mon, 22 Aug 2022 18:28:58 +0530</pubDate><guid>https://gaecoli.github.io/about/</guid><description>(def GuYu (doto (Programmer.) (.alias &amp;#34;geacoli&amp;#34; &amp;#34;peterlee&amp;#34;) (.currentJobLocation &amp;#34;GuangZhou&amp;#34;) (.homepage &amp;#34;https://args.info&amp;#34;) (.languages [:React :JS :Python :Clojure]) (.favorites {:sport [&amp;#34;Running&amp;#34; &amp;#34;Climbing&amp;#34;] :singer [&amp;#34;Adele&amp;#34;]}))) 喜欢分享一些所见所闻，喜欢历史书籍！</description></item><item><title>hahahahahahah</title><link>https://gaecoli.github.io/posts/haha/</link><pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate><guid>https://gaecoli.github.io/posts/haha/</guid><description>Pick out the things that need to be done today. Start a Short List for things you’re going to do today. That might be important tasks for big projects, urgent tasks that could result in damage if you don’t act, smaller admin tasks that you really should take care of today, and responding to important messages. I would recommend being ruthless and cutting out as much as you can, having just 5 things on your plate if that’s at all possible.</description></item><item><title>Primer: When You Have Too Much to Do</title><link>https://gaecoli.github.io/posts/post-1/</link><pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate><guid>https://gaecoli.github.io/posts/post-1/</guid><description>You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GuYu&#39;s Blog</title>
+    <link>https://gaecoli.github.io/</link>
+    <description>Recent content on GuYu&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Thu, 25 Aug 2022 20:03:25 +0800</lastBuildDate><atom:link href="https://gaecoli.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 08 25</title>
+      <link>https://gaecoli.github.io/posts/post-08-25/</link>
+      <pubDate>Thu, 25 Aug 2022 20:03:25 +0800</pubDate>
+      
+      <guid>https://gaecoli.github.io/posts/post-08-25/</guid>
+      <description>Hello world! </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://gaecoli.github.io/about/</link>
+      <pubDate>Mon, 22 Aug 2022 18:28:58 +0530</pubDate>
+      
+      <guid>https://gaecoli.github.io/about/</guid>
+      <description>(def GuYu (doto (Programmer.) (.alias &amp;#34;geacoli&amp;#34; &amp;#34;peterlee&amp;#34;) (.currentJobLocation &amp;#34;GuangZhou&amp;#34;) (.homepage &amp;#34;https://args.info&amp;#34;) (.languages [:React :JS :Python :Clojure]) (.favorites {:sport [&amp;#34;Running&amp;#34; &amp;#34;Climbing&amp;#34;] :singer [&amp;#34;Adele&amp;#34;]}))) 喜欢分享一些所见所闻，喜欢历史书籍！</description>
+    </item>
+    
+    <item>
+      <title>hahahahahahah</title>
+      <link>https://gaecoli.github.io/posts/haha/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      
+      <guid>https://gaecoli.github.io/posts/haha/</guid>
+      <description>Pick out the things that need to be done today. Start a Short List for things you’re going to do today. That might be important tasks for big projects, urgent tasks that could result in damage if you don’t act, smaller admin tasks that you really should take care of today, and responding to important messages. I would recommend being ruthless and cutting out as much as you can, having just 5 things on your plate if that’s at all possible.</description>
+    </item>
+    
+    <item>
+      <title>Primer: When You Have Too Much to Do</title>
+      <link>https://gaecoli.github.io/posts/post-1/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      
+      <guid>https://gaecoli.github.io/posts/post-1/</guid>
+      <description>You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
 It all keeps piling up, and it can feel overwhelming.
-How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?</description></item></channel></rss>
+How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?</description>
+    </item>
+    
+  </channel>
+</rss>
